@@ -11,7 +11,7 @@ A **Front-end | Web Developer** An advocate for creating **responsive**, **acces
 
 
 
-
+<img align="right" alt="" height="190px" src="./src/batman.gif">
 
 
 <h3 align="left">Connect with me!</h3>
