@@ -3,7 +3,8 @@
 A **Front-end | Web Developer** An advocate for creating **responsive**, **accessible**, and **inclusive digital interfaces** that deliver intuitive and engaging experiences on the web.
 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?username=rateryyz#gh-dark-mode-only)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/rateryyz/rateryyz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/rateryyz/rateryyz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 
