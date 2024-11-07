@@ -16,7 +16,6 @@ A **Front-end | Web Developer** An advocate for creating **responsive**, **acces
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://raw.githubusercontent.com/rateryyz/rateryyz/main/src/icons8-gmail%20(1).svg)](mailto:sucrammoreira@gmail.com)
 [![LinkedIn](https://github.com/rateryyz/rateryyz/blob/main/src/icons8-linkedin%20(1).svg)](https://www.linkedin.com/in/marcus-vinicius-moreira-front-end/)
 [![Instagram](https://github.com/rateryyz/rateryyz/blob/main/src/icons8-instagram%20(1).svg)](https://www.instagram.com/88x88y/)
 [![X](https://github.com/rateryyz/rateryyz/blob/main/src/icons8-twitterx%20(1).svg)](https://x.com/88x88y)
