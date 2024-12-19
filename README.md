@@ -17,7 +17,7 @@ A **Front-end | Web Developer** An advocate for creating **responsive**, **acces
 <h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://github.com/rateryyz/rateryyz/blob/main/src/icons8-linkedin%20(1).svg)](https://www.linkedin.com/in/marcus-vinicius-moreira-front-end/)
-[![X](https://github.com/rateryyz/rateryyz/blob/main/src/icons8-twitterx%20(1).svg)](https://x.com/88x88y)
+[![X](https://github.com/rateryyz/rateryyz/blob/main/src/icons8-twitterx%20(1).svg)](https://x.com/rateryzz)
 
 
 <h3 align="left">My Stack ~</h3>
